@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<title>Error!</title>
+	</head>
+	<body>
+		<h2>Error</h2>
+		<h3>ID kosong atau tidak ditemukan</h3>
+		<h3>Delete dibatalkan</h3>
+	</body>
+</html>
